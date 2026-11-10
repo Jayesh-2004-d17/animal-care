@@ -1,0 +1,6 @@
+{
+  "name": "Practo for Animals",
+  "description": "Find trusted veterinary clinics, 24/7 animal hospitals, pet boarding facilities, diagnostics, animal ambulances, and animal welfare NGOs near you.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
