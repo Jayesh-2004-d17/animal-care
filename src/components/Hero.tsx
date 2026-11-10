@@ -201,7 +201,7 @@ export const Hero: React.FC<HeroProps> = ({ onSearch, onSelectCategory }) => {
             <div className="relative rounded-2xl overflow-hidden border border-slate-200 bg-slate-100 shadow-xl shadow-teal-900/5 aspect-[4/3] lg:aspect-auto lg:h-[480px]">
               
               <img
-                src="/src/assets/images/hero_veterinary_care_1794316388830.jpg"
+                src="/images/hero_veterinary_care_1794316388830.jpg"
                 alt="Friendly veterinary doctor in teal scrubs examining a happy golden retriever in a modern clinic"
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
